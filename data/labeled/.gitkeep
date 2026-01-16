@@ -1,0 +1,6 @@
+# This file keeps the data/labeled directory in git
+# Labeled CSI data is organized in subdirectories:
+#   - no_presence/
+#   - static_presence/
+#   - small_movement/
+#   - large_movement/

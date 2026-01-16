@@ -1,0 +1,2 @@
+# This file keeps the data/raw directory in git
+# Raw CSI data files (.csv) are gitignored

@@ -1,0 +1,76 @@
+# WiFiVision .gitignore
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.env
+.venv/
+ENV/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.spyderproject
+.spyproject
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (keep structure, ignore large data)
+data/raw/*.csv
+data/processed/*.csv
+data/labeled/**/*.csv
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/labeled/.gitkeep
+
+# Model files (can be large)
+models/*.pkl
+models/*.pt
+models/*.pth
+!models/.gitkeep
+
+# Log files
+*.log
+logs/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+
+# ESP-IDF build artifacts (if cloning esp-csi locally)
+sdkconfig
+sdkconfig.old
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Test output
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Plot outputs (optional - uncomment to track)
+# plots/*.png
+# plots/*.pdf
