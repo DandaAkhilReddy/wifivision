@@ -19,7 +19,7 @@
 
 ### Danda Akhil Reddy
 
-**Developer | Creator | Innovator**
+**ML Engineer | AI Developer | IoT Enthusiast**
 
 *"Always Learning, Always Building"*
 
@@ -31,13 +31,31 @@
 
 ### About Me
 
-I'm a developer passionate about IoT, embedded systems, and privacy-preserving technologies. WiFiVision explores how WiFi signals can be used for non-invasive human detection - no cameras needed! When I'm not building IoT projects, I create Netflix-inspired web interfaces and experiment with new technologies.
+I'm a developer passionate about Machine Learning, Deep Learning, and AI-powered applications. My expertise spans Graph Neural Networks (GCN/GNN), Computer Vision, and IoT systems. From building AI fitness analyzers with body scanning technology to exploring privacy-preserving human detection with WiFi signals - I love pushing the boundaries of what's possible with AI and embedded systems.
 
 ### Skills & Technologies
 
+#### AI & Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![GNN](https://img.shields.io/badge/Graph_Neural_Networks-00ADD8?style=flat-square&logo=graphql&logoColor=white)
+
+#### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+#### IoT & Embedded
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+
+#### Web & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
