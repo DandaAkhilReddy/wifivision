@@ -11,6 +11,26 @@
 
 ---
 
+## 🎬 Live Demo
+
+### Dashboard in Action
+
+https://github.com/user-attachments/assets/fc1a186d-13f0-4f92-985b-854e2647c48d
+
+*Real-time WiFi-based human detection dashboard featuring:*
+- **Signal Amplitude** - Live WiFi signal strength visualization
+- **Movement Intensity** - Variance-based motion detection with threshold
+- **Presence Indicator** - Green when person detected, gray when empty
+- **Room Visualization** - Animated stick figure showing detected presence
+
+### Detection Results
+
+https://github.com/user-attachments/assets/76710d50-b395-4bec-8aac-a9517e2d174c
+
+*Live demonstration of presence detection accuracy and real-world performance*
+
+---
+
 ## Demo Results
 
 ### CLI Detection Output
